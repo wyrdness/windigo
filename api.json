@@ -1,0 +1,215 @@
+{
+  "category": "ENTITY_SPIRIT/DEMON_ANGEL",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/windigo",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    },
+    "cultural_sensitivity": {
+      "alert": "CRITICAL",
+      "notice": "This is SACRED Ojibwe/Anishinaabe spiritual teaching, NOT entertainment. Approach with utmost respect. Consult Indigenous knowledge keepers and communities.",
+      "guidelines": [
+        "Do not trivialize or use for entertainment purposes",
+        "Understand sacred context and spiritual significance",
+        "Listen to and center Indigenous voices",
+        "Recognize ongoing harm from appropriation",
+        "This is cultural teaching about survival ethics and community values"
+      ]
+    }
+  },
+
+  "phenomenon": {
+    "id": "windigo",
+    "name": "Windigo (Ojibwe)",
+    "aliases": [
+      {
+        "name": "Wiindigo",
+        "language": "Ojibwe",
+        "notes": "Alternative transliteration"
+      },
+      {
+        "name": "Witiko",
+        "language": "Ojibwe",
+        "notes": "Variant spelling"
+      }
+    ],
+    "category": "ENTITY_SPIRIT/DEMON_ANGEL",
+    "subcategory": "Sacred Spiritual Being",
+    "tags": [
+      "sacred",
+      "algonquian",
+      "ojibwe",
+      "anishinaabe",
+      "spiritual-teaching",
+      "cannibalism-taboo",
+      "greed-warning",
+      "transformation",
+      "cultural-sensitivity-critical"
+    ],
+    "status": "active_sacred_tradition",
+    "description": {
+      "summary": "Sacred Ojibwe/Anishinaabe spiritual being embodying cannibalism and greed. Central teaching about survival ethics, community interdependence, and ultimate taboo. NOT entertainment - active sacred tradition being reclaimed by Indigenous communities.",
+      "full": "The Windigo (Ojibwe variant of Wendigo) is a sacred spiritual being in Ojibwe/Anishinaabe traditions representing cannibalistic spirit with ice and winter associations, symbolized by a heart of ice. Like the Cree Wendigo, it represents the spiritual and moral transformation that occurs when humans resort to cannibalism or are consumed by greed. This is a profound cultural teaching about survival ethics in harsh conditions, the absolute prohibition against cannibalism, and the importance of community interdependence over individual survival. Humans who became Windigo were traditionally subject to execution by the community. The concept has been severely appropriated by horror genre, causing harm by disconnecting it from sacred meaning. This is not entertainment but living sacred teaching being actively reclaimed by Ojibwe communities. Understanding requires centering Ojibwe and Anishinaabe voices and approaching with deep respect for sacred knowledge."
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT/DEMON_ANGEL",
+      "type": "Sacred Spiritual Being",
+      "subtype": "Cannibalistic Spirit",
+      "variant": "Ojibwe/Anishinaabe"
+    },
+    "related_phenomena": [
+      {
+        "id": "wendigo-cree",
+        "name": "Wendigo (Cree)",
+        "relationship": "regional_variant",
+        "description": "Cree variant, similar sacred significance; spelling reflects language differences"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance": "Cannibalistic spirit associated with ice and winter; heart of ice symbolism",
+      "features": [
+        {
+          "feature": "Ice heart",
+          "description": "Heart turned to ice, symbolizing loss of human warmth",
+          "frequency": "always",
+          "significance": "Loss of compassion and humanity"
+        },
+        {
+          "feature": "Winter/ice association",
+          "description": "Embodies harsh winter and starvation",
+          "frequency": "always",
+          "significance": "Context of extreme survival conditions"
+        },
+        {
+          "feature": "Emaciation",
+          "description": "Skeletal appearance despite consuming victims",
+          "frequency": "common",
+          "significance": "Insatiable greed, never satisfied"
+        }
+      ],
+      "morphology": "Transformed human who has lost humanity through cannibalism"
+    },
+    "spiritual_nature": {
+      "meaning": "Embodiment of cannibalism and greed; ultimate spiritual corruption",
+      "teaching": "Survival ethics - community interdependence, cannibalism as ultimate taboo",
+      "transformation": "Humans who resort to cannibalism become Windigo, losing their humanity completely",
+      "symbolism": [
+        "Cannibalism taboo",
+        "Greed and selfishness destroying community",
+        "Loss of humanity",
+        "Winter survival ethics",
+        "Community over individual"
+      ]
+    },
+    "behavior": {
+      "nature": "Cannibalistic; consumes human flesh; insatiable hunger",
+      "transformation_triggers": [
+        "Committing cannibalism",
+        "Extreme greed overriding community values",
+        "Spirit possession",
+        "Choosing individual survival over community"
+      ],
+      "community_response_historical": [
+        "Traditional execution of those believed transformed",
+        "Community intervention and vigilance",
+        "Sharing resources to prevent desperation",
+        "Maintaining cultural teachings"
+      ]
+    }
+  },
+
+  "cultural_context": {
+    "sacred_teaching": {
+      "purpose": "Teaching about survival ethics, community interdependence, ultimate taboo",
+      "lessons": [
+        "Cannibalism is absolute taboo - spiritual death",
+        "Community survival requires cooperation and sharing",
+        "Individual must choose collective over self",
+        "Greed destroys both person and community",
+        "Maintaining humanity means maintaining community bonds"
+      ],
+      "context": "Developed in context of harsh winters, resource scarcity, absolute dependence on community cooperation"
+    },
+    "ojibwe_specific": {
+      "language_notes": "Windigo spelling reflects Ojibwe language; Wendigo is Cree variant",
+      "regional_variations": "Different Anishinaabe communities have variations in teaching and tradition",
+      "living_tradition": "Actively maintained and taught in Ojibwe communities today"
+    },
+    "historical_community_response": {
+      "execution_practice": "Historical practice of executing those believed to have become Windigo",
+      "context": "Viewed as necessary to protect community; person no longer considered human",
+      "modern_understanding": "Must be understood in cultural context, not judged by external standards"
+    },
+    "modern_context": {
+      "reclamation": "Indigenous communities actively reclaiming accurate understanding from horror appropriation",
+      "appropriation_harm": "Horror genre exploitation causes ongoing harm by trivializing sacred teaching",
+      "indigenous_voices": "Ojibwe scholars and community members speaking out against misuse"
+    }
+  },
+
+  "respect_guidelines": {
+    "critical_points": [
+      "This is SACRED Ojibwe/Anishinaabe spiritual teaching",
+      "NOT for entertainment or horror genre use",
+      "Listen to and center Ojibwe voices - they are knowledge keepers",
+      "Understand sacred context and cultural meaning",
+      "Recognize ongoing harm from appropriation",
+      "Living spiritual tradition deserving same respect as any religious teaching"
+    ],
+    "when_discussing": [
+      "Acknowledge sacred nature explicitly",
+      "Cite Ojibwe scholars and knowledge keepers",
+      "Explain cultural context and teaching purpose",
+      "Do not create 'monster' narratives",
+      "Defer to Ojibwe community guidance",
+      "Address appropriation and harm honestly"
+    ]
+  },
+
+  "differences_from_wendigo": {
+    "language": "Windigo reflects Ojibwe language; Wendigo reflects Cree language",
+    "cultural_specific": "Each represents specific cultural teachings from different but related nations",
+    "similarity": "Both are sacred teachings about cannibalism taboo and survival ethics",
+    "respect": "Both require equal respect as sacred spiritual traditions"
+  },
+
+  "sources": [
+    {
+      "id": "vizenor-1984",
+      "type": "book",
+      "title": "The People Named the Chippewa: Narrative Histories",
+      "authors": ["Gerald Vizenor"],
+      "publication": "University of Minnesota Press",
+      "date": "1984",
+      "isbn": "978-0816612574",
+      "notes": "Ojibwe author and scholar"
+    },
+    {
+      "id": "johnston-1976",
+      "type": "book",
+      "title": "Ojibway Heritage",
+      "authors": ["Basil Johnston"],
+      "publication": "McClelland and Stewart",
+      "date": "1976",
+      "notes": "Ojibwe author and knowledge keeper"
+    }
+  ]
+}
